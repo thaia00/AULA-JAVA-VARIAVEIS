@@ -1,36 +1,50 @@
+g
+const devName = "Thaia";
+const mainLang = "Python";
+const secondaryLang = "JavaScript";
+const libraryName = "Pandas";
+const editor = "VS Code";
+const os = "Linux";
+const favoriteHero = "Homem-Aranha";
+const favoriteFruit = "Kiwi";
+const city = "São Paulo";
+const goal = "Desenvolvedora";
 
 
-let idade = 22;
-let anoAtual = 2026;
-let quantidadeDeProdutos = 5;
-let numeroDeAulas = 18; //N LEMBRO KKKKKKKK 
-let alunosNaTurma = 20;
+const age = 22;
+const currentYear = 2026;
+const semester = 2;
+const hoursOfStudy = 8;
+const dailyCoffees = 2;
+const projectProgress = 100;
+const totalModules = 10;
+const screenWidth = 1920;
+const keyboardKeys = 104;
+const grade = 10.0;
 
-let precoDoCafe = 4.50;
-let alturaEmMetros = 1.65;
-let notaDaProva = 9.5;
-let temperatura = 23.8;
-let pesoEmKg = 60.2;
 
 
-let nome = "Thaia";
-let cidade = "São Paulo";
-let profissao = "Estudante";
-let curso = "Tecnologia da Informação";
-let linguagem = "JavaScript";
 
-let corFavorita = "AMARTELO"
-let diaDaSemana = "Quarta-feira";
-let mensagem = "Oi prof";
-let nomeDoBairro = "Perus";
-let fruta = "kiwi";
+console.log("Strings");
+console.log(devName);
+console.log(mainLang);
+console.log(secondaryLang);
+console.log(libraryName);
+console.log(editor);
+console.log(os);
+console.log(favoriteHero);
+console.log(favoriteFruit);
+console.log(city);
+console.log(goal);
 
-console.log("--- NÚMEROS ---");
-console.log("Idade:", idade);
-console.log("Ano Atual:", anoAtual);
-console.log("Preço do Café:", precoDoCafe);
-
-console.log("\n--- STRINGS ---");
-console.log("Nome:", nome);
-console.log("Curso:", curso);
-console.log("Mensagem:", mensagem);
+console.log("Números");
+console.log(age);
+console.log(currentYear);
+console.log(semester);
+console.log(hoursOfStudy);
+console.log(dailyCoffees);
+console.log(projectProgress);
+console.log(totalModules);
+console.log(screenWidth);
+console.log(keyboardKeys);
+console.log(grade);
